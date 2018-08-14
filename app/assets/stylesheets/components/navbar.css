@@ -11,7 +11,6 @@
   display: flex;
   width: 100%;
   padding-right: 0px;
-  background-color: ;
 }
 
 .elementnav{
@@ -19,8 +18,6 @@
   margin-right: 0px;
 }
 .elementnav:first-child {
-  background-color: ;
-  margin-right: px;
 }
 .navbar-logo{
   float: left;
