@@ -13,3 +13,29 @@
  *= require_tree .
  *= require_self
  */
+/* --- Import Google Fonts stylesheets --- */
+@import url("http://fonts.googleapis.com/ css?family=Open+Sans:400,300,700|Montserrat:400,700");
+/* --- Import Components stylesheets --- */
+@import url("components/avatar.css");
+@import url("components/bouton.css");
+@import url("components/card.css");
+@import url("components/navbar.css");
+@import url("components/tabs.css");
+@import url("components/footer.css");
+@import url("components/home.css");
+@import url("components/banner.css");
+
+/* --- Fonts --- */
+body {
+font-family: "Open Sans", "Helvetica", "sans-serif"; }
+h1, h2, h3 {
+font-family: "Montserrat", "sans-serif";
+}
+
+body {
+  display: flex;
+  justify-content : center;
+  align-items: center;
+  background-color: rgba(163,126,177,1);
+  padding: 80px;
+}

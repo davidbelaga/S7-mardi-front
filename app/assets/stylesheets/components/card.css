@@ -1,0 +1,30 @@
+.card{
+  margin-left: 20px;
+  position: relative;
+  height: 250px;
+  width: 250px;
+  background: linear-gradient(-225deg, rgba(30,30,30,0.6) 30%,
+  rgba(46,46,46,0.5) 80%), url('http://placeimg.com/250/300/any');
+  background-size: cover;
+  color: white !important;
+}
+.card-user{
+   position: absolute;
+   top: 10px;
+   left: 10px;
+}
+.card-tag{
+  position: absolute;
+  top: 10px;
+  right: 10px;"
+}
+.card-description{
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  color: white !important;
+}
+
+.rounded-circle {
+    border-radius: 50%!important;
+}
