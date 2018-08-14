@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+** Voici le lien Heroku :**
+*https://frontbeautiful.herokuapp.com/*
